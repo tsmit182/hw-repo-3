@@ -1,0 +1,45 @@
+body {
+	background-color:	#000000;
+	color: yellow;
+	font: caption;
+}
+
+img {
+	margin-left: 100px;
+	border: solid;
+	border-width: 20px;
+	border-color: #FFFFF0;
+}
+
+h1 {
+	color: #666629;
+	font-family: monospace;
+	float: right;
+}
+
+h3 {
+	margin-left: 70px;
+	font-style: italic;
+}
+
+ul {
+	font-family: fantasy;
+	color: #CCCC52;
+}
+
+ul {
+	font-family: fantasy;
+	color: #CCCC52;
+}
+
+li {
+	color: #8DA28D;
+}
+
+a:link {
+	color: #00FFFF;
+	}
+
+a:visited {
+	color: #B87094;
+}
