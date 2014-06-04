@@ -16,7 +16,8 @@ h1 {
 	color: #666629;
 	font-family: monospace;
 	float: right;
-	border-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
 	border-color: grey;
 	border-width: 3px;
 }
@@ -25,7 +26,8 @@ h1 {
 	margin-bottom:65px;
 	margin-top:50px;
 	font-style: italic;
-	font-family:sans-serif;
+	font-family: sans-serif;
+	color: #CCCC52;
 }
 
 
@@ -33,16 +35,17 @@ h2 {
 	margin-left: 70px;
 	font-style: italic;
 	float:right;
+	border-top-style: solid;
+	border-color:grey;
+	border-bottom-style: solid;
+	border-width: 2px;
 }
 
 ul {
 	font-family: fantasy;
 	color: #CCCC52;
-}
-
-ul {
-	font-family: fantasy;
-	color: #CCCC52;
+	margin-left: 60px;
+	margin-right:350px;
 }
 
 li {
