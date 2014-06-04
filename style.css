@@ -5,6 +5,7 @@ body {
 }
 
 img {
+	margin-top: 25px;
 	margin-left: 100px;
 	border: solid;
 	border-width: 20px;
@@ -15,11 +16,23 @@ h1 {
 	color: #666629;
 	font-family: monospace;
 	float: right;
+	border-style: solid;
+	border-color: grey;
+	border-width: 3px;
 }
 
-h3 {
+#bio {
+	margin-bottom:65px;
+	margin-top:50px;
+	font-style: italic;
+	font-family:sans-serif;
+}
+
+
+h2 {
 	margin-left: 70px;
 	font-style: italic;
+	float:right;
 }
 
 ul {
