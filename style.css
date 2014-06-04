@@ -36,6 +36,11 @@ li {
 	color: #8DA28D;
 }
 
+#fruitbat {
+	font-size: 10px;
+	margin-left: 70px;
+}
+
 a:link {
 	color: #00FFFF;
 	}
