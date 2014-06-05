@@ -4,6 +4,15 @@ body {
 	font: caption;
 }
 
+single line comment
+
+header {
+	outline-color: red;
+	background-color: grey;
+	height: 200px;
+	width: 100%;
+}
+
 img {
 	margin-top: 25px;
 	margin-left: 100px;
